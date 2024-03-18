@@ -1,0 +1,3 @@
+- Used **SQL** to explore data across 11 interconnected tables in a music store database, employing **Window functions, Aggregate functions, and Joins.**
+- Responded to crucial queries by identifying the most profitable country, targeting cities for promotional events based on customer spending, recognizing top customers, pinpointing popular genres by country, determining the highest-earning artists, and more.
+- This thorough analysis offers a detailed insight into the store's performance, revealing profit areas and guiding informed decision-making.
